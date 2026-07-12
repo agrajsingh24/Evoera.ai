@@ -1,7 +1,49 @@
+/* 1. External Imports (Fonts & Libraries MUST be at the very top) */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+@import "leaflet/dist/leaflet.css";
+/* 🔥 ADD THIS LINE RIGHT HERE */
 
+/* 2. Tailwind CSS Import */
 @import "tailwindcss";
 
+/* Note: If you run into Tailwind v3 vs v4 issues again, 
+   replace the `@import "tailwindcss";` line above with:
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities; 
+*/
+
+/* 3. Custom Tailwind Utilities */
+@layer utilities {
+  .text-neon-green {
+    color: #00ff99;
+  }
+
+  .bg-neon-green {
+    background-color: #00ff99;
+  }
+
+  .drop-shadow-neon {
+    filter: drop-shadow(0 0 12px rgba(0, 255, 153, 0.25));
+  }
+
+  .shadow-neon {
+    box-shadow: 0 0 15px rgba(0, 255, 153, 0.12);
+  }
+
+  /* hide scrollbar for the horizontal carousel */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+/* 4. Global Base Styles */
 html {
   scroll-behavior: smooth;
 }
@@ -12,6 +54,33 @@ body,
   height: 100%;
 }
 
-body {
-  margin: 0;
+/* 5. Component Styles (Leaflet Maps) */
+.leaflet-container {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.map-wrapper {
+  height: 500px;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #222;
+}
+
+/* 6. Custom Animations */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-marquee {
+  display: inline-block;
+  min-width: 100%;
+  animation: marquee 20s ease-in-out infinite;
 }

@@ -1,13 +1,20 @@
-import "./App.css";
+import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // ==========================================
 // LAYOUTS (These handle your different Navbars)
 // ==========================================
+import MainLayout from "./layouts/MainLayout";
 import CitizenLayout from "./layouts/CitizenLayout";
 import CivicFlowLayout from "./layouts/CivicFlowLayout";
+import WorkerLayout from "./layouts/WorkerLayout";
 import AdminLayout from "./layouts/AdminLayout";
 
+// ==========================================
+// PAGES
+// ==========================================
+// Home
+import Home from "./pages/home/Home";
 
 // Citizen Pages
 import CitizenAgreement from "./pages/citizen/CitizenAgreement";
@@ -27,10 +34,15 @@ import InstantGarbagePickup from './pages/citizen/civic-flow/InstantGarbagePicku
 import TrackReport from './pages/citizen/civic-flow/TrackReport';
 import Reward from './pages/citizen/civic-flow/Reward';
 
+// Worker Pages
+import WorkerAgreement from './pages/worker/WorkerAgreement';
+import WorkerSignup from './pages/worker/WorkerSignup';
+import WorkerLogin from './pages/worker/WorkerLogin';
+import WorkerDashboard from './pages/worker/WorkerDashboard';
 
 // Admin Pages
-import AdminLogin from "./pages/admin/AdminLogin";
-import AdminDashboard from "./pages/admin/AdminDashboard";
+import AdminLogin from './pages/admin/AdminLogin';
+import AdminDashboard from './pages/admin/AdminDashboard';
 import GeoSpatialPage from './pages/admin/GeoSpatialPage';
 import LeaderboardPage from './pages/admin/LeaderboardPage';
 import RiverHealthPage from './pages/admin/RiverHealthPage';
@@ -45,11 +57,19 @@ import PolicyPage from './pages/admin/PolicyPage';
 import CompliancePage from './pages/admin/CompliancePage';
 import LiveVehicleTrack from './pages/admin/LiveVehicleTrack';
 
+
 function App() {
   return (
-    <>
+    <div className="font-sans bg-Linear-to-b from-evora-50 to-white text-slate-800">
       <Router>
         <Routes>
+
+          {/* ------------------------------------------------------------- */}
+          {/* MAIN LANDING PAGE (Uses MainLayout: HomeNavbar + MainFooter)  */}
+          {/* ------------------------------------------------------------- */}
+          <Route element={<MainLayout />}>
+            <Route path="/" element={<Home />} />
+          </Route>
 
           {/* ------------------------------------------------------------- */}
           {/* CITIZEN ROUTES (Uses CitizenLayout: CitizenNavbar)            */}
@@ -76,8 +96,16 @@ function App() {
             <Route path="/TrackReport" element={<TrackReport />} />
             <Route path="/Reward" element={<Reward />} />
           </Route>
-          
 
+          {/* ------------------------------------------------------------- */}
+          {/* WORKER ROUTES (Uses WorkerLayout: WorkerNavbar)               */}
+          {/* ------------------------------------------------------------- */}
+          <Route element={<WorkerLayout />}>
+            <Route path="/WorkerAgreement" element={<WorkerAgreement />} />
+            <Route path="/WorkerSignup" element={<WorkerSignup />} />
+            <Route path="/WorkerLogin" element={<WorkerLogin />} />
+            <Route path="/WorkerDashboard" element={<WorkerDashboard />} />
+          </Route>
 
           {/* ------------------------------------------------------------- */}
           {/* ADMIN ROUTES (Uses AdminLayout: AdminNavbar)                  */}
@@ -99,9 +127,10 @@ function App() {
             <Route path="/policy" element={<PolicyPage />} />
             <Route path="/compliance" element={<CompliancePage />} />
           </Route>
+
         </Routes>
       </Router>
-    </>
+    </div>
   );
 }
 

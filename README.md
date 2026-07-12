@@ -1,63 +1,16 @@
-# 🌍 EVORA AI – ESG Intelligence Platform
+# React + Vite
 
-## 📌 Overview
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Evora AI is an AI-powered Sustainability Intelligence Platform that connects citizens, organizations, and governments through real-time environmental monitoring, ESG analytics, carbon accounting, governance, and predictive AI.
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-The platform combines Artificial Intelligence, Computer Vision, IoT, and Data Analytics to transform traditional ESG reporting into a proactive, data-driven ecosystem. EVORA enables organizations to track environmental impact, engage employees in sustainability initiatives, ensure governance compliance, and generate actionable ESG reports—all from a single platform.
+## React Compiler
 
----
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## ❗ Problem Statement
+## Expanding the ESLint configuration
 
-Organizations often struggle with:
-
-* Manual and time-consuming ESG reporting.
-* Lack of real-time environmental monitoring.
-* Difficulty tracking carbon emissions and resource consumption.
-* Low employee participation in sustainability initiatives.
-* Inefficient governance and compliance management.
-* Absence of intelligent recommendations for improving ESG performance.
-
-These challenges lead to inaccurate reporting, delayed decision-making, and limited visibility into an organization's sustainability efforts.
-
----
-
-## 💡 Proposed Solution
-
-EVORA AI addresses these challenges by providing an AI-native ESG management platform that automates environmental monitoring, simplifies governance, and encourages sustainable practices.
-
-The platform uses Computer Vision and AI to detect environmental issues such as waste accumulation, pollution, and infrastructure problems. It estimates carbon impact, analyzes sustainability metrics, and generates organization-wide ESG scores.
-
-Beyond environmental monitoring, EVORA includes employee engagement features such as sustainability challenges, CSR activity tracking, gamification, and AI-powered recommendations that encourage organizations to adopt greener practices.
-
-An intelligent dashboard provides real-time analytics, predictive insights, and automated ESG reports, enabling management to make informed decisions while improving compliance and sustainability performance.
-
----
-
-## 🎯 Objectives
-
-* Automate ESG monitoring using Artificial Intelligence.
-* Improve sustainability through real-time environmental analytics.
-* Enable carbon footprint estimation and ESG scoring.
-* Increase employee participation through gamification and CSR tracking.
-* Provide predictive insights for better sustainability planning.
-* Simplify ESG reporting with AI-generated analytics and recommendations.
-
----
-
-## 🌱 Expected Impact
-
-* Improved ESG performance and transparency.
-* Reduced environmental footprint.
-* Increased employee engagement in sustainability initiatives.
-* Data-driven decision-making for organizations.
-* Better governance and compliance management.
-* Support for achieving the United Nations Sustainable Development Goals (SDGs).
-
----
-
-## 🚀 Vision
-
-To build an intelligent ESG ecosystem where Artificial Intelligence empowers organizations to monitor, predict, and improve sustainability while creating measurable environmental and social impact.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
