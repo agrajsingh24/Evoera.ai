@@ -2,7 +2,8 @@
 
 ## 📌 Overview
 
-EVORA AI is an AI-powered ESG (Environmental, Social, and Governance) intelligence platform designed to help organizations monitor, manage, and improve their sustainability efforts through real-time insights, automation, and predictive analytics.
+Evora AI is an AI-powered Sustainability Intelligence Platform that connects citizens, organizations, and governments through real-time environmental monitoring, ESG analytics, carbon accounting, governance, and predictive AI.
+
 
 The platform combines Artificial Intelligence, Computer Vision, IoT, and Data Analytics to transform traditional ESG reporting into a proactive, data-driven ecosystem. EVORA enables organizations to track environmental impact, engage employees in sustainability initiatives, ensure governance compliance, and generate actionable ESG reports—all from a single platform.
 
