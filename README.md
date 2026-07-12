@@ -116,3 +116,118 @@ Decision-makers gain access to real-time ESG scores, carbon analytics, sustainab
 ### 🎮 Gamification Portal
 
 The Gamification Portal encourages continuous engagement through sustainability missions, XP, EcoCoins, badges, rewards, and leaderboards, making environmental action rewarding for every participant.
+
+# 🔄 EVORA Workflow
+
+Citizen
+
+↓
+
+AI Image Analysis
+
+↓
+
+Issue Detection
+
+↓
+
+Carbon Intelligence
+
+↓
+
+ESG Scoring
+
+↓
+
+Admin Dashboard
+
+↓
+
+Worker Assignment
+
+↓
+
+Issue Resolution
+
+↓
+
+Gamification Rewards
+
+↓
+
+Executive Analytics
+
+---
+
+# ⭐ Why EVORA is Different?
+
+| Traditional ESG | EVORA AI |
+|-----------------|----------|
+| Manual Reporting | AI-Powered Detection |
+| Quarterly Reports | Real-Time Intelligence |
+| Static Dashboards | Live ESG Analytics |
+| Manual Carbon Tracking | Carbon Intelligence |
+| Limited Participation | Citizen + Community + Workforce |
+| Reactive Decisions | Predictive Sustainability |
+| Static Reporting | Continuous Monitoring |
+| Separate Systems | Unified Sustainability Platform |
+
+---
+
+# 📈 Expected Impact
+
+- ⚡ Faster Issue Resolution
+- 🌱 Continuous ESG Monitoring
+- ♻️ Carbon Emission Optimization
+- 📊 Better Governance
+- 🤝 Higher Citizen Participation
+- 🌍 Sustainable Communities
+- 🏛 Data-Driven Decision Making
+- 📉 Reduced Carbon Footprint
+
+---
+
+# 🛠 Technology Stack
+
+- React 19
+- Vite
+- Tailwind CSS
+- React Router
+- JavaScript (ES6+)
+- Computer Vision
+- Artificial Intelligence
+- GIS
+- ESG Analytics
+
+---
+
+# 🚀 Future Roadmap
+
+- Carbon Credit Readiness
+- AI Predictive Analytics
+- Satellite Monitoring
+- Drone-Based Inspection
+- Smart City IoT Integration
+- Climate Risk Prediction
+- Digital Twin
+- Open Government APIs
+
+---
+
+# 🌍 Our Vision
+
+EVORA AI is more than a civic reporting platform.
+
+It is an AI-powered Sustainability Intelligence Platform that transforms environmental observations into measurable ESG impact.
+
+By integrating Artificial Intelligence, Carbon Intelligence, ESG Analytics, Community Participation, Governance, and Gamification, EVORA empowers organizations and governments to monitor, measure, track, optimize, and reduce their environmental footprint—building smarter, cleaner, and more sustainable communities.
+
+---
+
+## ⭐ Built for the Odoo Hackathon
+
+**AI • ESG • Carbon Intelligence • Sustainability • Community • Governance**
+
+**Team EVORA AI**
+
+*"Transforming Everyday Actions into Measurable Sustainability Impact."*
