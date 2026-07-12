@@ -6,9 +6,12 @@
 
 #### Transforming Everyday Environmental Actions into Measurable ESG Impact
 
-<p align="center">
+<p>
 
-<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=for-the-badge&logo=vite"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Powered-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ESG-Management-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Carbon-Intelligence-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer-Vision-orange?style=for-the-badge"/>
@@ -17,314 +20,99 @@
 
 </p>
 
-**EVORA AI is an AI-powered Sustainability Intelligence Platform that enables governments, organizations, municipalities, and communities to measure, manage, and improve Environmental, Social, and Governance (ESG) performance through Artificial Intelligence, Carbon Intelligence, Computer Vision, Real-Time Analytics, and Gamification.**
-
-**Instead of simply reporting environmental issues, EVORA transforms every verified activity into measurable sustainability intelligence that supports better governance, smarter decision-making, and long-term climate action.**
+**EVORA AI is an AI-powered Sustainability Intelligence Platform designed to help governments, organizations, municipalities, and communities measure, manage, and improve Environmental, Social, and Governance (ESG) performance. By combining Artificial Intelligence, Computer Vision, Carbon Intelligence, Real-Time Analytics, and Gamification, EVORA transforms everyday environmental actions into measurable sustainability impact.**
 
 ---
 
-# 🚀 Why EVORA AI?
+### 🏆 Built for the Odoo Hackathon
 
-Traditional ESG platforms rely on:
+**Theme:** AI • ESG • Carbon Intelligence • Sustainability • Community • Governance
 
-- Manual reporting
-- Quarterly sustainability audits
-- Fragmented operational data
-- Delayed decision making
-- Limited employee engagement
+*"Transforming Everyday Actions into Measurable Sustainability Impact."*
 
-EVORA AI changes this completely.
-
-Our platform continuously transforms real-world environmental activities into measurable ESG intelligence using Artificial Intelligence.
-
-✔ AI Issue Detection
-
-✔ Carbon Intelligence
-
-✔ ESG Analytics
-
-✔ Community Participation
-
-✔ Governance Monitoring
-
-✔ Gamification
-
-✔ Sustainability Reporting
-
-✔ Real-Time Decision Support
+</div>
 
 ---
 
-# 🌎 Problem Statement
+# 🌎 The Challenge
 
-Organizations today struggle to monitor sustainability continuously.
+Organizations across the world are under increasing pressure to reduce carbon emissions, improve ESG performance, and comply with evolving sustainability regulations. Despite significant investments in sustainability initiatives, most organizations still rely on fragmented systems, manual reporting, spreadsheets, and delayed audits.
 
-Environmental issues are often reported manually, carbon emissions remain difficult to measure accurately, ESG reporting is time-consuming, and employee participation remains low.
+This results in slow decision-making, limited transparency, poor citizen engagement, inefficient workforce coordination, and a lack of real-time environmental intelligence.
 
-As a result,
-
-• Environmental damage increases
-
-• Operational costs rise
-
-• Sustainability initiatives become reactive instead of proactive
-
-• Decision-makers lack real-time intelligence
-
-EVORA AI addresses these challenges by creating a unified AI-powered sustainability ecosystem.
+EVORA AI addresses these challenges by creating a unified, AI-powered sustainability ecosystem that converts environmental observations into actionable intelligence.
 
 ---
 
 # 💡 Our Solution
 
-EVORA AI combines
+EVORA AI is more than a civic reporting platform.
 
-- Artificial Intelligence
-- Computer Vision
-- Carbon Intelligence
-- ESG Analytics
-- GIS Intelligence
-- Workforce Management
-- Citizen Participation
-- Gamification
+It is an integrated Sustainability Intelligence Platform that connects citizens, field workers, administrators, and decision-makers through a single AI-powered ecosystem.
 
-into one unified platform.
+By leveraging Artificial Intelligence, Computer Vision, Carbon Intelligence, ESG Analytics, GIS Intelligence, and Gamification, EVORA enables organizations to monitor environmental activities in real time, measure sustainability performance, optimize carbon impact, and improve governance through data-driven decision-making.
 
-Every environmental observation becomes actionable sustainability intelligence.
+Every verified environmental action contributes toward measurable Environmental, Social, and Governance outcomes.
 
 ---
 
-# 🌿 Core Innovations
+# 🚀 Why EVORA AI?
 
-## 🤖 AI Intelligence Engine
+Unlike conventional complaint management or ESG reporting solutions, EVORA provides continuous sustainability intelligence instead of periodic reporting.
 
-- AI Image Analysis
-- Issue Classification
-- Severity Prediction
-- Smart Prioritization
-- Environmental Impact Analysis
-- Automated Routing
+### Key Capabilities
 
----
-
-## 🌱 Carbon Intelligence
-
-Every verified activity contributes toward measurable carbon impact.
-
-EVORA continuously:
-
-- Monitor Carbon Emissions
-- Measure Carbon Reduction
-- Track Carbon Footprint
-- Optimize Resource Usage
-- Generate Carbon Analytics
-- Support Carbon Credit Readiness
-
-Our vision is to help organizations and governments monitor, measure, optimize, and reduce carbon emissions through AI-powered environmental intelligence.
+- 🤖 AI-powered environmental issue detection
+- 🌱 Carbon Intelligence and emission monitoring
+- 📊 Real-time ESG performance tracking
+- 🏛 Governance and operational transparency
+- 👥 Community participation and citizen engagement
+- 🎮 Gamified sustainability challenges
+- 📈 Executive sustainability analytics
+- 🌍 Data-driven environmental decision support
 
 ---
 
-## 📊 ESG Intelligence Engine
+# 🌿 Core Innovation
 
-### Environmental
+EVORA combines multiple intelligent systems into one unified platform.
 
-- Waste Management
-- Air Pollution Monitoring
-- River Monitoring
-- Carbon Tracking
-- Sustainability Analytics
+### 🤖 AI Intelligence Engine
 
-### Social
+Our AI engine automatically analyzes environmental reports, classifies issues, predicts severity, estimates environmental impact, and recommends appropriate actions. This reduces manual intervention and enables faster, smarter decision-making.
 
-- Citizen Participation
-- CSR Activities
-- Community Challenges
-- Public Awareness
+### 🌱 Carbon Intelligence Engine
 
-### Governance
+Every verified environmental activity contributes to measurable carbon impact.
 
-- Transparency
-- Compliance Monitoring
-- Issue Resolution Tracking
-- Administrative Intelligence
+The Carbon Intelligence Engine continuously monitors carbon emissions, measures carbon reduction, tracks sustainability initiatives, generates carbon analytics, and supports future Carbon Credit Readiness.
 
----
+### 📊 ESG Intelligence Engine
 
-# 🎮 Sustainability Engagement Engine
+Environmental, Social, and Governance performance is continuously updated based on verified activities across the platform, enabling organizations to monitor sustainability in real time rather than relying on quarterly reports.
 
-EVORA motivates citizens and employees through
+### 🎮 Sustainability Engagement Engine
 
-- Sustainability Challenges
-- Daily Missions
-- XP System
-- EcoCoins
-- Badges
-- Leaderboards
-- Rewards
-- Community Campaigns
+Technology alone cannot solve sustainability.
 
-Every verified sustainability action contributes directly toward ESG performance.
+EVORA motivates citizens and employees through sustainability challenges, missions, EcoCoins, badges, leaderboards, XP, and rewards, encouraging long-term participation while strengthening ESG performance.
 
 ---
 
-# 🏛 Platform Modules
+# 🏛 Platform Ecosystem
 
 ### 👤 Citizen Portal
 
-- AI Environmental Reporting
-- Waste Pickup Requests
-- Issue Tracking
-- Community Campaigns
-- Sustainability Challenges
-
----
+Citizens can report environmental issues, schedule waste pickups, participate in sustainability campaigns, track issue resolution, and contribute to community-driven climate action.
 
 ### 👷 Worker Portal
 
-- Assigned Tasks
-- Route Management
-- Proof Upload
-- Resolution Tracking
-- Workforce Analytics
-
----
+Field workers receive assigned tasks, upload proof of completion, update issue status in real time, and improve operational efficiency through a centralized workflow.
 
 ### 🏢 Executive ESG Dashboard
 
-- ESG Score
-- Carbon Analytics
-- Sustainability KPIs
-- Department Performance
-- Heatmaps
-- Governance Dashboard
-- Predictive Analytics
-
----
+Decision-makers gain access to real-time ESG scores, carbon analytics, sustainability KPIs, department performance, governance insights, predictive trends, and environmental heatmaps for informed decision-making.
 
 ### 🎮 Gamification Portal
 
-- Challenges
-- Missions
-- XP
-- EcoCoins
-- Rewards
-- Badges
-- Leaderboards
-- ESG Contribution Tracking
-
----
-
-# 🔄 EVORA Workflow
-
-Citizen
-
-↓
-
-AI Image Analysis
-
-↓
-
-Issue Detection
-
-↓
-
-Carbon Intelligence
-
-↓
-
-ESG Scoring
-
-↓
-
-Admin Dashboard
-
-↓
-
-Worker Assignment
-
-↓
-
-Issue Resolution
-
-↓
-
-Gamification Rewards
-
-↓
-
-Executive Analytics
-
----
-
-# ⭐ Why EVORA is Different?
-
-| Traditional ESG | EVORA AI |
-|-----------------|----------|
-| Manual Reporting | AI-Powered Detection |
-| Quarterly Reports | Real-Time Intelligence |
-| Static Dashboards | Live ESG Analytics |
-| Manual Carbon Tracking | Carbon Intelligence |
-| Limited Participation | Citizen + Community + Workforce |
-| Reactive Decisions | Predictive Sustainability |
-| Static Reporting | Continuous Monitoring |
-| Separate Systems | Unified Sustainability Platform |
-
----
-
-# 📈 Expected Impact
-
-- ⚡ Faster Issue Resolution
-- 🌱 Continuous ESG Monitoring
-- ♻️ Carbon Emission Optimization
-- 📊 Better Governance
-- 🤝 Higher Citizen Participation
-- 🌍 Sustainable Communities
-- 🏛 Data-Driven Decision Making
-- 📉 Reduced Carbon Footprint
-
----
-
-# 🛠 Technology Stack
-
-- React 19
-- Vite
-- Tailwind CSS
-- React Router
-- JavaScript (ES6+)
-- Computer Vision
-- Artificial Intelligence
-- GIS
-- ESG Analytics
-
----
-
-# 🚀 Future Roadmap
-
-- Carbon Credit Readiness
-- AI Predictive Analytics
-- Satellite Monitoring
-- Drone-Based Inspection
-- Smart City IoT Integration
-- Climate Risk Prediction
-- Digital Twin
-- Open Government APIs
-
----
-
-# 🌍 Our Vision
-
-EVORA AI is more than a civic reporting platform.
-
-It is an AI-powered Sustainability Intelligence Platform that transforms environmental observations into measurable ESG impact.
-
-By integrating Artificial Intelligence, Carbon Intelligence, ESG Analytics, Community Participation, Governance, and Gamification, EVORA empowers organizations and governments to monitor, measure, track, optimize, and reduce their environmental footprint—building smarter, cleaner, and more sustainable communities.
-
----
-
-## ⭐ Built for the Odoo Hackathon
-
-**AI • ESG • Carbon Intelligence • Sustainability • Community • Governance**
-
-**Team EVORA AI**
-
-*"Transforming Everyday Actions into Measurable Sustainability Impact."*
+The Gamification Portal encourages continuous engagement through sustainability missions, XP, EcoCoins, badges, rewards, and leaderboards, making environmental action rewarding for every participant.
