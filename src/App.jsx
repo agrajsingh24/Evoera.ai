@@ -12,11 +12,19 @@ import AdminLayout from "./layouts/AdminLayout";
 // Citizen Pages
 import CitizenAgreement from "./pages/citizen/CitizenAgreement";
 import CitizenLogin from "./pages/citizen/CitizenLogin";
+import CitizenSignup from './pages/citizen/CitizenSignup';
 import CitizenHome from './pages/citizen/CitizenHome';
+import CitizenProfile from './pages/citizen/CitizenProfile';
 import CitizenAbout from './pages/citizen/CitizenAbout';
+import Events from './pages/citizen/Events';
+import CivicBook from './pages/citizen/CivicBook';
+import LeaderboardAndChallenges from './pages/citizen/LeaderboardAndChallenges';
 import CivicFlow from './pages/citizen/civic-flow/CivicFlow';
 import CitizenDashboard from './pages/citizen/civic-flow/CitizenDashboard';
 import Report from './pages/citizen/civic-flow/Report';
+import SchedulePickup from './pages/citizen/civic-flow/SchedulePickup';
+import InstantGarbagePickup from './pages/citizen/civic-flow/InstantGarbagePickup';
+import TrackReport from './pages/citizen/civic-flow/TrackReport';
 import Reward from './pages/citizen/civic-flow/Reward';
 
 
@@ -46,11 +54,16 @@ function App() {
           {/* ------------------------------------------------------------- */}
           {/* CITIZEN ROUTES (Uses CitizenLayout: CitizenNavbar)            */}
           {/* ------------------------------------------------------------- */}
-                    <Route element={<CitizenLayout />}>
+          <Route element={<CitizenLayout />}>
             <Route path="/CitizenAgreement" element={<CitizenAgreement />} />
             <Route path="/CitizenLogin" element={<CitizenLogin />} />
+            <Route path="/CitizenSignup" element={<CitizenSignup />} />
+            <Route path="/CitizenProfile" element={<CitizenProfile />} />
             <Route path="/CitizenHome" element={<CitizenHome />} />
             <Route path="/CitizenAbout" element={<CitizenAbout />} />
+            <Route path="/Events" element={<Events />} />
+            <Route path="/CivicBook" element={<CivicBook />} />
+            <Route path="/LeaderboardAndCompetition" element={<LeaderboardAndChallenges />} />
           </Route>
 
           <Route element={<CivicFlowLayout />}>
@@ -58,6 +71,9 @@ function App() {
             <Route path="/civicflow" element={<CivicFlow />} />
             <Route path="/CitizenDashboard" element={<CitizenDashboard />} />
             <Route path="/Report" element={<Report />} />
+            <Route path="/SchedulePickup" element={<SchedulePickup />} />
+            <Route path="/InstantGarbagePickup" element={<InstantGarbagePickup />} />
+            <Route path="/TrackReport" element={<TrackReport />} />
             <Route path="/Reward" element={<Reward />} />
           </Route>
           
