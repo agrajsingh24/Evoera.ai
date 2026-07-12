@@ -4,7 +4,7 @@ AI-Powered Civic Intelligence & ESG Sustainability Platform
 
 Building Smarter, Cleaner & Sustainable Communities through Artificial Intelligence
 
-
+<P>
 <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" />
 <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?logo=vite" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css" />
@@ -14,7 +14,7 @@ Building Smarter, Cleaner & Sustainable Communities through Artificial Intellige
 <img src="https://img.shields.io/badge/IoT-Integrated-orange" />
 <img src="https://img.shields.io/badge/ESG-Sustainability-green" />
 <img src="https://img.shields.io/badge/Odoo-Hackathon-purple" />
-
+</P>
 
 **A next-generation civic intelligence platform that leverages Artificial Intelligence, Computer Vision, IoT, Real-Time Analytics, and Gamification to transform environmental governance and public service management.**
 
